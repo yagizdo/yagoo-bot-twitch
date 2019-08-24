@@ -40,7 +40,7 @@ $ npm install
     - 🍴 Fork this repo!
 
 - **Clone**
-    - 👯 Clone this repo to your local machine using `https://github.com/yourname/Yagoo-Kappa.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/yagizdo/yagoo-bot-twitch.git`
 
 
 - **Branch**
@@ -51,7 +51,7 @@ $ npm install
     $ git checkout -b bug-fix
     ```
 
-- 🔃 Create a new pull request using <a href="https://github.com/yagizdo/Yagoo-Kappa/compare/" target="_blank">`https://github.com/yagizdo/Yagoo-Kappa/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/yagizdo/yagoo-bot/compare/" target="_blank">`https://github.com/yagizdo/yagoo-bot/compare/`</a>.
 
 ---
 
