@@ -23,7 +23,7 @@
 
 Clone this repo to your local machine using 
 ```shell
-$ git clone https://github.com/yagizdo/Yagoo-Kappa.git
+$ git clone https://github.com/yagizdo/yagoo-bot-twitch.git
 ```
 
 ### Setup
@@ -51,7 +51,7 @@ $ npm install
     $ git checkout -b bug-fix
     ```
 
-- 🔃 Create a new pull request using <a href="https://github.com/yagizdo/yagoo-bot/compare/" target="_blank">`https://github.com/yagizdo/yagoo-bot/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/yagizdo/yagoo-bot-twitch/compare/" target="_blank">`https://github.com/yagizdo/yagoo-bot/compare/`</a>.
 
 ---
 
