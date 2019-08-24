@@ -28,7 +28,7 @@ $ git clone https://github.com/yagizdo/yagoo-bot-twitch.git
 
 ### Setup
 ```shell
-$ cd Yago-Kappa
+$ cd yagoo-bot-twitch
 $ npm install
 ```
 
