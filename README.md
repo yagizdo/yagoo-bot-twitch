@@ -1,127 +1,69 @@
-# Twitch-Bot
-Twitch Bot with tmi.js and Node.js.
+# Yagoo_bot Twitch Bot
+
+**Bot Commands**
+
+- !sosyal
+- !şarkı
+- !youtube
+- !instagram
+- !discord
+- !komutlar
+- !süre
+- !game
+- !title
+- !zar
+- !sub
+
+- Abone Mesajı - Sub Message
+
+- Abonelik Devam Mesajı - ReSub Message
+
+## Installation
 
 
-English Information
---------------------
+Clone this repo to your local machine using 
+```shell
+$ git clone https://github.com/yagizdo/Yagoo-Kappa.git
+```
 
-***Proporties***
+### Setup
+```shell
+$ cd Yago-Kappa
+$ npm install
+```
 
-!title = Change the stream title with this command.
-<br/>
-<br/>
-# ------------------------------------------------------------------
-!game = Change stream name with this command.
-<br/>
-<br/>
-# ------------------------------------------------------------------
-!süre = You can learn the broadcasting time with this command.
-> Example ScreenShot : 
+## Contributing
 
-![süreornek](screenshots/sure.png)
-<br/>
-<br/>
-# -------------------------------------------------------------------
-!sarki = On chat display shows the song currently playing via spotify.
-> Example ScreenShot : 
+### Step 1
 
-![sarkiornek](screenshots/sarki.png)
-<br/>
-<br/>
-# -------------------------------------------------------------------
-!zar = You can roll the dice with this command.
-> Example ScreenShot : 
- 
-![zarornek](screenshots/zar.png)
-<br/>
-<br/>
-<br/>
-<br/>
+- **Fork**
+    - 🍴 Fork this repo!
 
-# -------------------------------------------------------------------
-Sub Command : When someone sub, they will write private messages on the chat.
-<br/>
-Example : yagoo thanks for subscription. Welcome Family <3
-<br/>
-Example ScreenShot : Soon :)
-<br/>
-<br/>
-# -------------------------------------------------------------------
-Resub Command : When someone re-subscribes, they will write private messages on the chat.
-<br/>
-Example : yagoo thanks for x month subscription.
-<br/>
-Example ScreenShot : Soon :)
-<br/>
-<br/>
-<br/>
-<br/>
+- **Clone**
+    - 👯 Clone this repo to your local machine using `https://github.com/yourname/Yagoo-Kappa.git`
 
 
+- **Branch**
+    - Our Branch name is not very important, but if it is descriptive about the work we do, it will help you to use it later.
 
+    ```shell
+    $ git checkout master
+    $ git checkout -b bug-fix
+    ```
 
+- 🔃 Create a new pull request using <a href="https://github.com/yagizdo/Yagoo-Kappa/compare/" target="_blank">`https://github.com/yagizdo/Yagoo-Kappa/compare/`</a>.
 
+---
 
+## Contributors/People
+| <a href="https://www.github.com/yagizdo" target="_blank">**Yılmaz Yağız Dokumacı**</a>
+| :---: 
+| [![yagizdo](https://avatars2.githubusercontent.com/u/31064552?s=200&v=4)](http://fvcproductions.com)
+| <a href="http://github.com/fvcproductions" target="_blank">`github.com/yagizdo`</a>
 
+---
 
+## License
 
-
-
-
-Türkçe Bilgilendirme
----------------------
-
-***Özellikler***
-
-!title = Bu komut ile yayin basligini degistirebilirsiniz.
-<br/>
-<br/>
-# ---------------------------------------------------------
-!game = Bu komut ile yayin oyununu degistirebilirsiniz.
-<br/>
-<br/>
-# ---------------------------------------------------------
-!süre = Bu komut ile yayin süresini ögrenebilirsiniz. 
-> Örnek Ekran Görüntüsü : 
-
-![süreornek](screenshots/sure.png)
-<br/>
-<br/>
-# --------------------------------------------------------
-!sarki = Bu komut ile o an spotify da çalan sarkiyi chatte görebilirsiniz.
-> Örnek Ekran Görüntüsü : 
-
-![sarkiornek](screenshots/sarki.png)
-<br/>
-<br/>
-# ---------------------------------------------------------
-!zar = Bu komut ile zar atabilirsiniz.
-> Örnek Ekran Görüntüsü : 
-
-![zarornek](screenshots/zar.png)
-<br/>
-<br/>
-# ---------------------------------------------------------
-Sub Command : Birisi abone oldugunda chatte ona mesaj yazar.
-<br/>
-Yazi örnegi : yagoo Abone oldugun için tesekkür ederim. Aileye hosgeldin <3
-<br/>
-Örnek Ekran Görüntüsü : Yakinda :)
-<br/>
-<br/>
-# ------------------------------------------------------------
-Resub Command : Birisi yeniden abone oldugunda chatte mesaj yazar. 
-<br/>
-Yazi örnegi : yagoo x aydir abone oldugun için tesekkür ederim canimsin.
-<br/>
-Ekran görüntüsü : Yakinda :)
-<br/>
-<br/>
-<br/>
-<br/>
-# Contributors
-Yılmaz Yağız Dokumacı - https://github.com/yagizdo
-</br>
-
-Selim Yalınkılıç - https://github.com/selimyalinkilic  
-</br>Oğuzhan İnce - https://github.com/oguzsh
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="https://github.com/yagizdo" target="_blank">yagizdo</a>.
