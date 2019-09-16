@@ -55,6 +55,14 @@ $ npm install
 
 ---
 
+## Contributors/People
+| <a href="https://www.github.com/oguzsh" target="_blank">**Oğuzhan İNCE**</a>
+| :---: 
+| [![oguzsh](https://avatars2.githubusercontent.com/u/15168877?s=200&v=4)](http://fvcproductions.com)
+| <a href="http://github.com/fvcproductions" target="_blank">`github.com/oguzsh`</a>
+
+---
+
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
